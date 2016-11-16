@@ -68,14 +68,6 @@ This feature is not developed
 <li>Options to just change Username, Password, or Email individually</li>
 </ol>
 
-####Admin
-<ol>
-<li>Basic Crud functionality, create, update, edit and insert players</li>
-<li>Assigning roles and role management</li>
-<li>Uploading player images when creating a player</li>
-</ol>
-
-
 
 
 
